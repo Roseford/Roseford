@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roseford
 - 👀 I’m interested in python language
-- 🌱 I’m currently learning to code in python
-- 💞️ I’m looking to collaborate on building websites with python and learning more on AI and ML
+- 🌱 I’m currently learning to code in python and working with Django's Rest APIs for backend programming
+- 💞️ I’m looking to collaborate on building websites with Django framework
 - 📫 How to reach me obianujuofodu@gmail.com
 
 <!---
