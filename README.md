@@ -25,4 +25,7 @@ Python, Postgres, Fastapi,
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="your-hashnode-URL">
+    <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
+  </a>
 </div>
