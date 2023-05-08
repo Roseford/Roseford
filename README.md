@@ -19,7 +19,7 @@ Hi!! My name is Obianuju Ofodu. I am a Python developer, open source enthusiast,
 Python, Postgres, Fastapi, 
 # Socials
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/obianuju-ofodu-60706519b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Ujunwaboo">
