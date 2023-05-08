@@ -22,10 +22,13 @@ Python, Postgres, Fastapi,
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Ujunwaboo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://roseford.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
+  </a>
+  <a href="obianujuofodu@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=linkedin&logoColor=red" alt="gmail Badge"/>
   </a>
 </div>
