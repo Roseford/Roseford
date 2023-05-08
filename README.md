@@ -29,6 +29,6 @@ Python, Postgres, Fastapi,
     <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
   </a>
   <a href="obianujuofodu@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=linkedin&logoColor=red" alt="gmail Badge"/>
+    <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail Badge"/>
   </a>
 </div>
