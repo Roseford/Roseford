@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Roseford
-- 👀 I’m interested in python language
-- 🌱 I’m currently learning to code in python and working with Django's Rest APIs for backend programming
-- 💞️ I’m looking to collaborate on building websites with Django framework
-- 📫 How to reach me obianujuofodu@gmail.com
+# About Me
 
-<!---
-Roseford/Roseford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi!! 
+My name is Obianuju Ofodu. I am a tech enthusiast 
+
+# Stack
+Python, Postgres, Fastapi, 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
