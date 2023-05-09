@@ -36,8 +36,8 @@
   <a href="your-HTML5-URL">
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge"/>
   </a>
-  <a href="your-CSS-URL">
-    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=black" alt="CSS Badge"/>
+  <a href="your-CSS3-URL">
+    <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3 Badge"/>
   </a>
   <a href="your-ANACONDA-URL">
     <img src="https://img.shields.io/badge/ANACONDA-white?style=for-the-badge&logo=anaconda&logoColor=olivegreen" alt="Anaconda Badge"/>
