@@ -44,7 +44,7 @@
   </a>
   <br>
   <a href="your-SQLAlchemy-URL">
-    <img src="https://img.shields.io/badge/SQLAlchemy-white?style=for-the-badge&logo=sqlalchemy&logoColor=red" alt="SQlAlchemy Badge"/>
+    <img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge&logo=sqlalchemy&logoColor=red" alt="SQlAlchemy Badge"/>
   </a>
   <a href="your-Markdown-URL">
     <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=blue" alt="Markdown Badge"/>
