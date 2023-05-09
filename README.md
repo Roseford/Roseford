@@ -1,4 +1,4 @@
-# ✨ About Me:
+# 💫 About Me:
 
 * 👋 Hi!! My name is **Obianuju Ofodu**.  
 
@@ -10,7 +10,7 @@
 
 * 💃 I am excited to work on projects that align with my skills and passions.  
 
-# Stack
+# 💻 Stack
   <a href="your-python-URL">
     <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="python Badge"/>
   </a>
@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=blue" alt="Markdown Badge"/>
   </a>
 
-# Socials
+# 🌐 Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/obianuju-ofodu-60706519b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
