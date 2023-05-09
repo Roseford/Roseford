@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/AWS-red?style=for-the-badge&logo=aws&logoColor=orange" alt="AWS Badge"/>
   </a>
   <a href="your-Pydantic-URL">
-    <img src="https://img.shields.io/badge/pydantic-purple?style=for-the-badge&logo=pydantic&logoColor=purple" alt="Pydantic Badge"/>
+    <img src="https://img.shields.io/badge/pydantic-darkpink?style=for-the-badge&logo=pydantic&logoColor=darkpink" alt="Pydantic Badge"/>
   </a>
   <br>
   <a href="your-github-URL">
