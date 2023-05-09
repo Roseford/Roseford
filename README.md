@@ -8,7 +8,7 @@
 
 * 😊 I am always eager to take on new challenges and learn from my experiences. Whether it's developing new features, contributing to         open-source projects, or creating documentation.  
 
-* 💃 I am excited to work on projects that align with my skills and passions.  
+- 💃 I am excited to work on projects that align with my skills and passions.  
 
 # Stack
   <a href="your-python-URL">
