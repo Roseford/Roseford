@@ -23,8 +23,8 @@
   <a href="your-AWS-URL">
     <img src="https://img.shields.io/badge/AWS-red?style=for-the-badge&logo=aws&logoColor=orange" alt="AWS Badge"/>
   </a>
-  <a href="your-Markdown-URL">
-    <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=blue" alt="Markdown Badge"/>
+  <a href="your-Pydantic-URL">
+    <img src="https://img.shields.io/badge/pydantic-white?style=for-the-badge&logo=pydantic&logoColor=pink" alt="Pydantic Badge"/>
   </a>
   <br>
   <a href="your-github-URL">
@@ -46,8 +46,8 @@
   <a href="your-SQLAlchemy-URL">
     <img src="https://img.shields.io/badge/SQLAlchemy-white?style=for-the-badge&logo=sqlalchemy&logoColor=red" alt="SQlAlchemy Badge"/>
   </a>
-  <a href="your-Pydantic-URL">
-    <img src="https://img.shields.io/badge/pydantic-white?style=for-the-badge&logo=pydantic&logoColor=pink" alt="Pydantic Badge"/>
+  <a href="your-Markdown-URL">
+    <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=blue" alt="Markdown Badge"/>
   </a>
 
 # Socials
@@ -62,6 +62,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://roseford.hashnode.dev/">
-    <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
+    <img src="https://img.shields.io/badge/hashnode-darkblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
   </a>
 </div>
