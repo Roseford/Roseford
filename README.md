@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="python Badge"/>
   </a>
   <a href="your-postgres-URL">
-    <img src="https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgres&logoColor=blue" alt="postgres Badge"/>
+    <img src="https://img.shields.io/badge/postgres-darkblue?style=for-the-badge&logo=postgres&logoColor=blue" alt="postgres Badge"/>
   </a>
   <a href="your-FastApi-URL">
     <img src="https://img.shields.io/badge/FastApi-white?style=for-the-badge&logo=FastApi&logoColor=green" alt="FastApi Badge"/>
@@ -23,7 +23,27 @@
   <a href="your-AWS-URL">
     <img src="https://img.shields.io/badge/AWS-red?style=for-the-badge&logo=aws&logoColor=orange" alt="AWS Badge"/>
   </a>
-  
+  <a href="your-Markdown-URL">
+    <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=blue" alt="Markdown Badge"/>
+  </a>
+  <a href="your-github-URL">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="markdown Badge"/>
+  </a>
+  <a href="your-git-URL">
+    <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=red" alt="Git Badge"/>
+  </a>
+  <a href="your-HTML5-URL">
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge"/>
+  </a>
+  <a href="your-CSS-URL">
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=black" alt="CSS Badge"/>
+  </a>
+  <a href="your-ANACONDA-URL">
+    <img src="https://img.shields.io/badge/ANACONDA-white?style=for-the-badge&logo=anaconda&logoColor=green" alt="Anaconda Badge"/>
+  </a>
+  <a href="your-SQLAlchemy-URL">
+    <img src="https://img.shields.io/badge/SQLAlchemy-white?style=for-the-badge&logo=sqlalchemy&logoColor=red" alt="SQlAlchemy Badge"/>
+  </a>
 Python, Postgres, Fastapi, 
 # Socials
 <div id="badges">
