@@ -1,4 +1,4 @@
-# About Me:
+# ✨ About Me:
 
 * 👋 Hi!! My name is **Obianuju Ofodu**.  
 
