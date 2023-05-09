@@ -44,7 +44,7 @@
   <a href="your-SQLAlchemy-URL">
     <img src="https://img.shields.io/badge/SQLAlchemy-white?style=for-the-badge&logo=sqlalchemy&logoColor=red" alt="SQlAlchemy Badge"/>
   </a>
-Python, Postgres, Fastapi, 
+
 # Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/obianuju-ofodu-60706519b">
