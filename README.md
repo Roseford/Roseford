@@ -25,7 +25,8 @@
   </a>
   <a href="your-Markdown-URL">
     <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=blue" alt="Markdown Badge"/>
-  </a>/n
+  </a>
+  <br>
   <a href="your-github-URL">
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="markdown Badge"/>
   </a>
